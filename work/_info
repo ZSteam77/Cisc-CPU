@@ -1,0 +1,718 @@
+m255
+K3
+z0
+13
+cModel Technology
+dD:\Homework\KTH\IL2203\seminar2
+Ealu
+Z0 w1664716324
+Z1 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z2 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z3 dD:/Homework/KTH/IL2203/Lab/Lab4
+Z4 8D:\Homework\KTH\IL2203\Lab\Lab4\ALU.vhd
+Z5 FD:\Homework\KTH\IL2203\Lab\Lab4\ALU.vhd
+l0
+L5
+Vh:1>:0eSo^>jGk]Fg`jFj1
+!s100 7POUUUHj3:OSF4FEKLXoC0
+Z6 OV;C;10.5b;63
+32
+Z7 !s110 1693645707
+!i10b 1
+Z8 !s108 1693645707.000000
+Z9 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:\Homework\KTH\IL2203\Lab\Lab4\ALU.vhd|
+Z10 !s107 D:\Homework\KTH\IL2203\Lab\Lab4\ALU.vhd|
+!i113 1
+Z11 o-work work -2002 -explicit
+Z12 tExplicit 1 CvgOpt 0
+Abehavioral
+R1
+R2
+DEx4 work 3 alu 0 22 h:1>:0eSo^>jGk]Fg`jFj1
+l28
+L13
+Vl3WnHVaG75?m:nj?m_al92
+!s100 4omkoZ4aO@RQX_aAgTnz[1
+R6
+32
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Passembly_instructions
+Z13 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+R1
+R2
+w1665490722
+R3
+8D:/Homework/KTH/IL2203/Lab/Lab4/assembly_instructions.vhd
+FD:/Homework/KTH/IL2203/Lab/Lab4/assembly_instructions.vhd
+l0
+L6
+V6HEEnVfO;NgBm:eNN=2A`0
+!s100 V@zkB14WAOz?jL3Z4jZm52
+R6
+32
+R7
+!i10b 1
+R8
+!s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Homework/KTH/IL2203/Lab/Lab4/assembly_instructions.vhd|
+!s107 D:/Homework/KTH/IL2203/Lab/Lab4/assembly_instructions.vhd|
+!i113 1
+R11
+R12
+Eclk_divide
+Z14 w1665655262
+R13
+R1
+R2
+R3
+Z15 8D:/Homework/KTH/IL2203/Lab/Lab4/clk_divider.vhd
+Z16 FD:/Homework/KTH/IL2203/Lab/Lab4/clk_divider.vhd
+l0
+L6
+V]<NkQL0z>PE8bQY_Tl2^00
+!s100 >D9S9G88UYYVgVz<WO=2a3
+R6
+32
+R7
+!i10b 1
+R8
+Z17 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Homework/KTH/IL2203/Lab/Lab4/clk_divider.vhd|
+Z18 !s107 D:/Homework/KTH/IL2203/Lab/Lab4/clk_divider.vhd|
+!i113 1
+R11
+R12
+Aclk_divider
+R13
+R1
+R2
+DEx4 work 10 clk_divide 0 22 ]<NkQL0z>PE8bQY_Tl2^00
+l13
+L11
+VW[GS3X]]6Uja>oa?f=68k0
+!s100 4B]^NRWC2Ao[z_[af[STV3
+R6
+32
+R7
+!i10b 1
+R8
+R17
+R18
+!i113 1
+R11
+R12
+Ecpu
+Z19 w1693645823
+Z20 DPx4 work 21 assembly_instructions 0 22 6HEEnVfO;NgBm:eNN=2A`0
+R13
+R1
+R2
+R3
+Z21 8D:\Homework\KTH\IL2203\Lab\Lab4\CPU.vhd
+Z22 FD:\Homework\KTH\IL2203\Lab\Lab4\CPU.vhd
+l0
+L7
+Vi2mb;2IhggFm:4Qdl53W?3
+!s100 ]3n[dLUR0hoTQN_kGPf052
+R6
+32
+Z23 !s110 1693645826
+!i10b 1
+Z24 !s108 1693645826.000000
+Z25 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:\Homework\KTH\IL2203\Lab\Lab4\CPU.vhd|
+Z26 !s107 D:\Homework\KTH\IL2203\Lab\Lab4\CPU.vhd|
+!i113 1
+R11
+R12
+Acpu_arc
+R20
+R13
+R1
+R2
+DEx4 work 3 cpu 0 22 i2mb;2IhggFm:4Qdl53W?3
+l60
+L18
+Vh4^E`nhh<BX5F@4R8BQK;3
+!s100 VjX61Mn[4^l8ORf1ffc@o2
+R6
+32
+R23
+!i10b 1
+R24
+R25
+R26
+!i113 1
+R11
+R12
+Edatapath
+Z27 w1664711865
+R13
+R1
+R2
+R3
+Z28 8D:/Homework/KTH/IL2203/Lab/Lab4/Datapath.vhd
+Z29 FD:/Homework/KTH/IL2203/Lab/Lab4/Datapath.vhd
+l0
+L6
+V<UP=@JbzPf8c6fB06J[@_2
+!s100 YeOA8HAB5g=WJlMTf6<KT2
+R6
+32
+R7
+!i10b 1
+R8
+Z30 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Homework/KTH/IL2203/Lab/Lab4/Datapath.vhd|
+Z31 !s107 D:/Homework/KTH/IL2203/Lab/Lab4/Datapath.vhd|
+!i113 1
+R11
+R12
+Adp
+R13
+R1
+R2
+DEx4 work 8 datapath 0 22 <UP=@JbzPf8c6fB06J[@_2
+l40
+L17
+Vf[dOUYnI_MMzILDhBDZ7H1
+!s100 BiKIAfGLU[mJ[Fz2nNaSh1
+R6
+32
+R7
+!i10b 1
+R8
+R30
+R31
+!i113 1
+R11
+R12
+Efake_memory
+Z32 w1665618629
+Z33 DPx12 modelsim_lib 4 util 0 22 I9VUm]?fD[2nYZzgoDM?l2
+R20
+R13
+R1
+R2
+R3
+Z34 8D:/Homework/KTH/IL2203/Lab/Lab4/memory_test.vhd
+Z35 FD:/Homework/KTH/IL2203/Lab/Lab4/memory_test.vhd
+l0
+L10
+V<Ob9g8KEm;oYNPQz=6VYQ1
+!s100 Hdbz<gmlc]1oNINJSDk^V3
+R6
+32
+R7
+!i10b 1
+R8
+Z36 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Homework/KTH/IL2203/Lab/Lab4/memory_test.vhd|
+Z37 !s107 D:/Homework/KTH/IL2203/Lab/Lab4/memory_test.vhd|
+!i113 1
+R11
+R12
+Afake
+R33
+R20
+R13
+R1
+R2
+DEx4 work 11 fake_memory 0 22 <Ob9g8KEm;oYNPQz=6VYQ1
+l64
+L13
+V3F4;o::H_A2c6C>SVIfN>1
+!s100 _Ofh:`zz7X@;n3iF?6PE]1
+R6
+32
+R7
+!i10b 1
+R8
+R36
+R37
+!i113 1
+R11
+R12
+Efpga
+Z38 w1663165416
+R13
+R1
+R2
+R3
+Z39 8D:/Homework/KTH/IL2203/Lab/Lab4/FPGA.vhd
+Z40 FD:/Homework/KTH/IL2203/Lab/Lab4/FPGA.vhd
+l0
+L6
+V]Haaho^aC>fIO^0Q_AJMY2
+!s100 _f4VhPedBQflgIXb`bY;33
+R6
+32
+R7
+!i10b 1
+R8
+Z41 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Homework/KTH/IL2203/Lab/Lab4/FPGA.vhd|
+Z42 !s107 D:/Homework/KTH/IL2203/Lab/Lab4/FPGA.vhd|
+!i113 1
+R11
+R12
+Aboard
+R13
+R1
+R2
+DEx4 work 4 fpga 0 22 ]Haaho^aC>fIO^0Q_AJMY2
+l31
+L16
+V_gGlm_D9F<^T8[JbB?nHY1
+!s100 DJ?Dh[XolF9A_4BdCUmFR0
+R6
+32
+R7
+!i10b 1
+R8
+R41
+R42
+!i113 1
+R11
+R12
+Efsm
+Z43 w1665617496
+R20
+R13
+R1
+R2
+R3
+Z44 8D:/Homework/KTH/IL2203/Lab/Lab4/FSM.vhd
+Z45 FD:/Homework/KTH/IL2203/Lab/Lab4/FSM.vhd
+l0
+L7
+ViIgcABBeUbQz`1=3[f:[S3
+!s100 H6?T9aT;R`;6OC9oEIKH[3
+R6
+32
+R7
+!i10b 1
+R8
+Z46 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Homework/KTH/IL2203/Lab/Lab4/FSM.vhd|
+Z47 !s107 D:/Homework/KTH/IL2203/Lab/Lab4/FSM.vhd|
+!i113 1
+R11
+R12
+Afsm_arc
+R20
+R13
+R1
+R2
+DEx4 work 3 fsm 0 22 iIgcABBeUbQz`1=3[f:[S3
+l47
+L19
+V`fc8efkVK1=:6i:T9lz7;2
+!s100 6`L_JCC8LWI3aYBzlfi1e1
+R6
+32
+R7
+!i10b 1
+R8
+R46
+R47
+!i113 1
+R11
+R12
+Efull_adder
+Z48 w1662406477
+R1
+R2
+R3
+Z49 8D:/Homework/KTH/IL2203/Lab/Lab4/full_adder.vhd
+Z50 FD:/Homework/KTH/IL2203/Lab/Lab4/full_adder.vhd
+l0
+L5
+V1l:?g>YW<2bE1Re@`0?ab3
+!s100 07h6ml0^Qe8TBbL]De]WQ3
+R6
+32
+R7
+!i10b 1
+R8
+Z51 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Homework/KTH/IL2203/Lab/Lab4/full_adder.vhd|
+Z52 !s107 D:/Homework/KTH/IL2203/Lab/Lab4/full_adder.vhd|
+!i113 1
+R11
+R12
+Adataflow
+R1
+R2
+DEx4 work 10 full_adder 0 22 1l:?g>YW<2bE1Re@`0?ab3
+l10
+L10
+VLkQ]7j;UY=8Q[W>KA6;<]2
+!s100 l5D:zT4@5:zAm0lV1koR00
+R6
+32
+R7
+!i10b 1
+R8
+R51
+R52
+!i113 1
+R11
+R12
+Egpio
+Z53 w1665440910
+R20
+R13
+R1
+R2
+R3
+Z54 8D:/Homework/KTH/IL2203/Lab/Lab4/GPIO.vhd
+Z55 FD:/Homework/KTH/IL2203/Lab/Lab4/GPIO.vhd
+l0
+L7
+VRT[F5:BYa3]ok9a]LAj`X0
+!s100 >2QLk^ZK4H@Y4gj6`d04<2
+R6
+32
+R7
+!i10b 1
+R8
+Z56 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Homework/KTH/IL2203/Lab/Lab4/GPIO.vhd|
+Z57 !s107 D:/Homework/KTH/IL2203/Lab/Lab4/GPIO.vhd|
+!i113 1
+R11
+R12
+Agpio_behav
+R20
+R13
+R1
+R2
+DEx4 work 4 gpio 0 22 RT[F5:BYa3]ok9a]LAj`X0
+l17
+L15
+VQH8@PY9Q=XiBAb:>fee`A0
+!s100 PhU9RTGK:XF[^N5AE2F@=3
+R6
+32
+R7
+!i10b 1
+R8
+R56
+R57
+!i113 1
+R11
+R12
+vmemory
+Iz_EHl0=oedZQcNT2g;`mV1
+V]AE5B6M9:6Cj4lb?O:dNV3
+Z58 dD:\Homework\KTH\IL2203\Lab\Lab4
+Z59 w1665564013
+Z60 8D:/Homework/KTH/IL2203/Lab/Lab4/memory_syn.v
+Z61 FD:/Homework/KTH/IL2203/Lab/Lab4/memory_syn.v
+L0 1416
+Z62 OV;L;10.1d;51
+r1
+31
+Z63 !s108 1665564454.877000
+Z64 !s107 D:/Homework/KTH/IL2203/Lab/Lab4/memory_syn.v|
+Z65 !s90 -reportprogress|300|-work|work|D:/Homework/KTH/IL2203/Lab/Lab4/memory_syn.v|
+Z66 o-work work -O0
+!i10b 1
+!s100 ;CU:Znz;`@PEI]W;=U;i91
+!s85 0
+!s101 -O0
+vmemory_altsyncram
+IlY>mIoo7c3>VN4;;bM^TX1
+Vh;=n5zC0XiOfMJRL_f6e;3
+R58
+R59
+R60
+R61
+L0 1350
+R62
+r1
+31
+R63
+R64
+R65
+R66
+!i10b 1
+!s100 0KJcVI7PPNVUPZ`HE^0o^1
+!s85 0
+!s101 -O0
+vmemory_altsyncram1
+IoWCN[W8f0?=KI]hUiof3h1
+V67Q30g3f7M@NOzjCooSOS3
+R58
+R59
+R60
+R61
+L0 52
+R62
+r1
+31
+R63
+R64
+R65
+R66
+!i10b 1
+!s100 ;;mH8RekJGg=B99TJzHAo0
+!s85 0
+!s101 -O0
+Eram
+Z67 w1665612412
+Z68 DPx9 altera_mf 20 altera_mf_components 0 22 gV:l9C^?PSb6]b5V?_jR@3
+R1
+R2
+R3
+Z69 8D:/Homework/KTH/IL2203/Lab/Lab4/ram.vhd
+Z70 FD:/Homework/KTH/IL2203/Lab/Lab4/ram.vhd
+l0
+L43
+VkbJ0_?4[a:ZKIXBfDk?_30
+!s100 Vfe[[=NaV;QERZGocNRiH1
+R6
+32
+R7
+!i10b 1
+R8
+Z71 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Homework/KTH/IL2203/Lab/Lab4/ram.vhd|
+Z72 !s107 D:/Homework/KTH/IL2203/Lab/Lab4/ram.vhd|
+!i113 1
+R11
+R12
+Asyn
+R68
+R1
+R2
+DEx4 work 3 ram 0 22 kbJ0_?4[a:ZKIXBfDk?_30
+l60
+L56
+VQeFD`=>1heXOHM>fHQ7P?3
+!s100 O<l`m1oI>1Y9I1]n?=UP]2
+R6
+32
+R7
+!i10b 1
+R8
+R71
+R72
+!i113 1
+R11
+R12
+Eregister_file
+Z73 w1664651158
+R13
+R1
+R2
+R3
+Z74 8D:/Homework/KTH/IL2203/Lab/Lab4/RF.vhd
+Z75 FD:/Homework/KTH/IL2203/Lab/Lab4/RF.vhd
+l0
+L6
+VS_=EbK]ECV4TJ_0IWhcE]1
+!s100 kI=?WC@W]oe0oej=3W@lz0
+R6
+32
+R7
+!i10b 1
+R8
+Z76 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Homework/KTH/IL2203/Lab/Lab4/RF.vhd|
+Z77 !s107 D:/Homework/KTH/IL2203/Lab/Lab4/RF.vhd|
+!i113 1
+R11
+R12
+Arf
+R13
+R1
+R2
+DEx4 work 13 register_file 0 22 S_=EbK]ECV4TJ_0IWhcE]1
+l17
+L14
+Vjc8OSFbIH_j^>E8b26AYI0
+!s100 AbLe90?o@CDbH8m`aiGeN2
+R6
+32
+R7
+!i10b 1
+R8
+R76
+R77
+!i113 1
+R11
+R12
+Eripple_carry_adder
+Z78 w1662587478
+R1
+R2
+R3
+Z79 8D:/Homework/KTH/IL2203/Lab/Lab4/ripple_carry_adder_structural.vhd
+Z80 FD:/Homework/KTH/IL2203/Lab/Lab4/ripple_carry_adder_structural.vhd
+l0
+L5
+V>Xcio3V;bWj8z5K6dfEXb0
+!s100 jnZz48I9Jz]8Ja;=bHASM1
+R6
+32
+R7
+!i10b 1
+R8
+Z81 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Homework/KTH/IL2203/Lab/Lab4/ripple_carry_adder_structural.vhd|
+Z82 !s107 D:/Homework/KTH/IL2203/Lab/Lab4/ripple_carry_adder_structural.vhd|
+!i113 1
+R11
+R12
+Astructural
+R1
+R2
+DEx4 work 18 ripple_carry_adder 0 22 >Xcio3V;bWj8z5K6dfEXb0
+l20
+L13
+VbDl4@8Oz^_[=16>:PmddQ0
+!s100 oY_3M>]LBhXPfjLQ>1nn>3
+R6
+32
+R7
+!i10b 1
+R8
+R81
+R82
+!i113 1
+R11
+R12
+Erom
+Z83 w1665617765
+R20
+R13
+R1
+R2
+R3
+Z84 8D:/Homework/KTH/IL2203/Lab/Lab4/ROM.vhd
+Z85 FD:/Homework/KTH/IL2203/Lab/Lab4/ROM.vhd
+l0
+L7
+VFT7X<>Cz9X``ZePoO1KPW2
+!s100 C@nOg35ePg_KF]98OTBkA2
+R6
+32
+R7
+!i10b 1
+R8
+Z86 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Homework/KTH/IL2203/Lab/Lab4/ROM.vhd|
+Z87 !s107 D:/Homework/KTH/IL2203/Lab/Lab4/ROM.vhd|
+!i113 1
+R11
+R12
+Arom_arc
+R20
+R13
+R1
+R2
+DEx4 work 3 rom 0 22 FT7X<>Cz9X``ZePoO1KPW2
+l21
+L19
+VG@Ylg>WHo0DShz9oS]kmA3
+!s100 M6HE`FJJO]0InzYZki`Y41
+R6
+32
+R7
+!i10b 1
+R8
+R86
+R87
+!i113 1
+R11
+R12
+Etest_cpu
+Z88 w1665620416
+R13
+R20
+R33
+R1
+R2
+R3
+Z89 8D:/Homework/KTH/IL2203/Lab/Lab4/CPU_test.vhd
+Z90 FD:/Homework/KTH/IL2203/Lab/Lab4/CPU_test.vhd
+l0
+L12
+VY1maOdX[64@PZ3;;J^]Rm3
+!s100 3jokVaKi6;z9deQ3S@UjE2
+R6
+32
+Z91 !s110 1693645711
+!i10b 1
+Z92 !s108 1693645711.000000
+Z93 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Homework/KTH/IL2203/Lab/Lab4/CPU_test.vhd|
+Z94 !s107 D:/Homework/KTH/IL2203/Lab/Lab4/CPU_test.vhd|
+!i113 1
+R11
+R12
+Asim
+R13
+R20
+R33
+R1
+R2
+DEx4 work 8 test_cpu 0 22 Y1maOdX[64@PZ3;;J^]Rm3
+l32
+L14
+VWIc_H?^6JHR?dMDT_nTCG2
+!s100 YMOm:VzzN31[hXZaBjC=:1
+R6
+32
+R91
+!i10b 1
+R92
+R93
+R94
+!i113 1
+R11
+R12
+Etest_fsm
+Z95 w1664787394
+R13
+R20
+R33
+Z96 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+Z97 DPx4 ieee 18 std_logic_unsigned 0 22 ;eZjO2D4ZDz<]0>8AL<ne1
+R1
+R2
+R3
+Z98 8D:/Homework/KTH/IL2203/Lab/Lab4/test_cpu_advanced.vhd
+Z99 FD:/Homework/KTH/IL2203/Lab/Lab4/test_cpu_advanced.vhd
+l0
+L11
+VS5NAES1JHFD5]2=?LO<G_0
+!s100 VXR]NZVnLz<g0AP]b=DFV1
+R6
+32
+R7
+!i10b 1
+R8
+Z100 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Homework/KTH/IL2203/Lab/Lab4/test_cpu_advanced.vhd|
+Z101 !s107 D:/Homework/KTH/IL2203/Lab/Lab4/test_cpu_advanced.vhd|
+!i113 1
+R11
+R12
+Atest_cpu_advanced
+R13
+R20
+R33
+R96
+R97
+R1
+R2
+DEx4 work 8 test_fsm 0 22 S5NAES1JHFD5]2=?LO<G_0
+l62
+L14
+V8iDXefmfQcTCH9j:OIilI2
+!s100 >c1oMk]^nKMBREUddT95a2
+R6
+32
+R7
+!i10b 1
+R8
+R100
+R101
+!i113 1
+R11
+R12

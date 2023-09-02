@@ -1,0 +1,81 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "PIO[0]",
+					"strict" : false
+				},
+				{
+					"name" : "PIO[1]",
+					"strict" : false
+				},
+				{
+					"name" : "PIO[2]",
+					"strict" : false
+				},
+				{
+					"name" : "PIO[3]",
+					"strict" : false
+				},
+				{
+					"name" : "PIO[4]",
+					"strict" : false
+				},
+				{
+					"name" : "PIO[5]",
+					"strict" : false
+				},
+				{
+					"name" : "PIO[6]",
+					"strict" : false
+				},
+				{
+					"name" : "PIO[7]",
+					"strict" : false
+				},
+				{
+					"name" : "PIO[8]",
+					"strict" : false
+				},
+				{
+					"name" : "PIO[9]",
+					"strict" : false
+				},
+				{
+					"name" : "PIO[10]",
+					"strict" : false
+				},
+				{
+					"name" : "PIO[11]",
+					"strict" : false
+				},
+				{
+					"name" : "PIO[12]",
+					"strict" : false
+				},
+				{
+					"name" : "PIO[13]",
+					"strict" : false
+				},
+				{
+					"name" : "PIO[14]",
+					"strict" : false
+				},
+				{
+					"name" : "PIO[15]",
+					"strict" : false
+				},
+				{
+					"name" : "reset",
+					"strict" : false
+				},
+				{
+					"name" : "clock",
+					"strict" : false
+				}
+			]
+		}
+	]
+}

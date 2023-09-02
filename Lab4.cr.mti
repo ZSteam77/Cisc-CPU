@@ -1,0 +1,144 @@
+D:/Homework/KTH/IL2203/Lab/Lab4/CPU_test.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/Homework/KTH/IL2203/Lab/Lab4/CPU_test.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package util
+-- Loading package NUMERIC_STD
+-- Loading package assembly_instructions
+-- Compiling entity test_cpu
+-- Compiling architecture sim of test_cpu
+
+} {} {}} D:/Homework/KTH/IL2203/Lab/Lab4/GPIO.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/Homework/KTH/IL2203/Lab/Lab4/GPIO.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package assembly_instructions
+-- Compiling entity GPIO
+-- Compiling architecture GPIO_behav of GPIO
+
+} {} {}} D:/Homework/KTH/IL2203/Lab/Lab4/memory_test.vhd {2 {vcom -work work -2002 -explicit -stats=none D:/Homework/KTH/IL2203/Lab/Lab4/memory_test.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package assembly_instructions
+-- Loading package util
+-- Compiling entity fake_memory
+-- Compiling architecture fake of fake_memory
+** Warning: D:/Homework/KTH/IL2203/Lab/Lab4/memory_test.vhd(65): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+
+} {} {}} D:/Homework/KTH/IL2203/Lab/Lab4/ram.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/Homework/KTH/IL2203/Lab/Lab4/ram.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package altera_mf_components
+-- Compiling entity ram
+-- Compiling architecture SYN of ram
+
+} {} {}} D:/Homework/KTH/IL2203/Lab/Lab4/full_adder.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/Homework/KTH/IL2203/Lab/Lab4/full_adder.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity full_adder
+-- Compiling architecture dataFlow of full_adder
+
+} {} {}} D:/Homework/KTH/IL2203/Lab/Lab4/ripple_carry_adder_structural.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/Homework/KTH/IL2203/Lab/Lab4/ripple_carry_adder_structural.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity ripple_carry_adder
+-- Compiling architecture structural of ripple_carry_adder
+
+} {} {}} D:/Homework/KTH/IL2203/Lab/Lab4/assembly_instructions.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/Homework/KTH/IL2203/Lab/Lab4/assembly_instructions.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling package assembly_instructions
+
+} {} {}} D:/Homework/KTH/IL2203/Lab/Lab4/FSM.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/Homework/KTH/IL2203/Lab/Lab4/FSM.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package assembly_instructions
+-- Compiling entity FSM
+-- Compiling architecture fsm_arc of FSM
+
+} {} {}} D:/Homework/KTH/IL2203/Lab/Lab4/FPGA.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/Homework/KTH/IL2203/Lab/Lab4/FPGA.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity FPGA
+-- Compiling architecture board of FPGA
+
+} {} {}} D:/Homework/KTH/IL2203/Lab/Lab4/Datapath.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/Homework/KTH/IL2203/Lab/Lab4/Datapath.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity datapath
+-- Compiling architecture dp of datapath
+
+} {} {}} D:/Homework/KTH/IL2203/Lab/Lab4/clk_divider.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/Homework/KTH/IL2203/Lab/Lab4/clk_divider.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity clk_divide
+-- Compiling architecture clk_divider of clk_divide
+
+} {} {}} D:/Homework/KTH/IL2203/Lab/Lab4/RF.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/Homework/KTH/IL2203/Lab/Lab4/RF.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity Register_File
+-- Compiling architecture RF of Register_File
+
+} {} {}} D:/Homework/KTH/IL2203/Lab/Lab4/ALU.vhd {1 {vcom -work work -2002 -explicit -stats=none {D:\Homework\KTH\IL2203\Lab\Lab4\ALU.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity ALU
+-- Compiling architecture behavioral of ALU
+
+} {} {}} D:/Homework/KTH/IL2203/Lab/Lab4/test_cpu_advanced.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/Homework/KTH/IL2203/Lab/Lab4/test_cpu_advanced.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Loading package util
+-- Loading package NUMERIC_STD
+-- Loading package assembly_instructions
+-- Compiling entity test_fsm
+-- Compiling architecture test_cpu_advanced of test_fsm
+
+} {} {}} D:/Homework/KTH/IL2203/Lab/Lab4/ROM.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/Homework/KTH/IL2203/Lab/Lab4/ROM.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package assembly_instructions
+-- Compiling entity ROM
+-- Compiling architecture ROM_arc of ROM
+
+} {} {}}
